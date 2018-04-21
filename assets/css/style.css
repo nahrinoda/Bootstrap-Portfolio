@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+  }
+ 
+h2{
+    font-family: 'Georgia', Times, Times New Roman, serif!important;
+}
+
+#footerborder {
+    border-top: 0.5rem solid #4aaaa5 !important;
+}
+
+.bg-info {
+    background-color: #4aaaa5 !important;
+}
+
+.text-info{
+    color: #4aaaa5 !important;
+}
